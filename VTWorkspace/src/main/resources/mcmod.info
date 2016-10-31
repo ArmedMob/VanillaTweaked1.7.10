@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "vtweaked",
+  "name": "Vanilla Tweaked",
+  "description": "Vanilla Tweaked for Forge 1.7.10",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "url": "http://www.rdsguild.com/VT",
+  "updateUrl": "https://gist.githubusercontent.com/ArmedMob/892ded8eda2c10a6ad58ef2cf989cd8b/raw/4ce70427ddec07a49d257be9e224a3238fbdd921/update.json",
+  "authorList": ["Armed Mob"],
+  "credits": "Red Dragons Guild",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
